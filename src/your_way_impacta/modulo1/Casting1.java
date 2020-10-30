@@ -1,14 +1,14 @@
-package your.way.impacta.modulo1;
+package your_way_impacta.modulo1;
 
-public class Casting3 {
+public class Casting1 {
 
     public static void main(String[] args) {
         
-        long ano = 2014;
-        int anoAtual = (int) ano;
+        int ano = 2014;
+        long anoAtual = ano;
         
-        double salarioMinimo = 2000.15;
-        float salarioTotal = (float) salarioMinimo;
+        float salarioMinimo = 2000.15f;
+        double salarioTotal = salarioMinimo;
         
         System.out.println(ano);
         System.out.println(anoAtual);

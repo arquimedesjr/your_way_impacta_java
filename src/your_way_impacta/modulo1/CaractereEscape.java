@@ -1,7 +1,7 @@
-package your.way.impacta.modulo1;
+package your_way_impacta.modulo1;
 
 public class CaractereEscape {
-	public static void main(String args[]){
+	public static void main(String[] args){
 		
 		System.out.println("Vai saltar uma linha \n saltou...");
 		System.out.println("Texto sem aspas, \"agora com aspas\"");

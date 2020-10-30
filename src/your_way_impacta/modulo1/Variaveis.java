@@ -1,7 +1,7 @@
-package your.way.impacta.modulo1;
+package your_way_impacta.modulo1;
 
 public class Variaveis {
-	public static void main(String args[]){
+	public static void main(String[] args){
 		
 		int a = 10, b;
 		int idade = 22;

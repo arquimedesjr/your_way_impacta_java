@@ -1,7 +1,7 @@
-package your.way.impacta.modulo1;
+package your_way_impacta.modulo1;
 
 public class Literais {
-	public static void main(String args[]){
+	public static void main(String[] args){
 		byte b = 100;
 		short s = 0100;
 		int i = 0x100;
