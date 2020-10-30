@@ -1,4 +1,4 @@
-package your_way_impacta.modulo1;
+package your_way_impacta.modulo1.aula2;
 
 public class OlaMundo {
 
