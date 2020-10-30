@@ -1,0 +1,10 @@
+package your_way_impacta.modulo1.aula5;
+
+public class ExemploForComplexo {
+
+	public static void main(String[] args){
+		for(int a = 1, b = 10; ((a < 10) && (b > 5)); a++){
+			System.out.println("a = " + a);
+		}
+	}
+}
