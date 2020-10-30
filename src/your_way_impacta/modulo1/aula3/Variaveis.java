@@ -1,4 +1,4 @@
-package your_way_impacta.modulo1;
+package your_way_impacta.modulo1.aula3;
 
 public class Variaveis {
 	public static void main(String[] args){

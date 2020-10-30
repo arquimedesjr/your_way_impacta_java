@@ -1,4 +1,4 @@
-package your_way_impacta.modulo1;
+package your_way_impacta.modulo1.aula3;
 
 public class Casting1 {
 
@@ -6,7 +6,7 @@ public class Casting1 {
         
         int ano = 2014;
         long anoAtual = ano;
-        
+
         float salarioMinimo = 2000.15f;
         double salarioTotal = salarioMinimo;
         
