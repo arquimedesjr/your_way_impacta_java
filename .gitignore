@@ -1,0 +1,10 @@
+# IntelliJ
+out/
+.idea/
+*.iml
+
+# Eclipse
+.target
+.metadata
+bin/
+.settings/
