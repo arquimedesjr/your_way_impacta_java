@@ -4,15 +4,20 @@ public class Laboratorio5 {
 
     public static void main(String[] args) {
 
-        for (int ano = 1930; ano <= 2020; ano += 4) {
+//        for (int ano = 1930; ano <= 2020; ano += 4) {
+//
+//            if (ano == 1942 || ano == 1946)
+//                continue;
+//
+//            System.out.println("Copa de Mundo de "+ano+"!");
 
-            if (ano == 1942 || ano == 1946)
-                continue;
+        int result = 9%2;
+        System.out.println(result);
+        result = 9/2;
+        System.out.println(result);
 
-            System.out.println("Compa de Mundo de "+ano+"!");
 
-
-        }
+//        }
 
     }
 }
